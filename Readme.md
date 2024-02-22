@@ -8,7 +8,7 @@ Welcome to my three.js experiments repository! This repository serves as a colle
 
 Description: In this experiment, I successfully rendered a 3D cube using three.js. The cube is created with customizable dimensions and colors. This project is part of my journey to understand the fundamentals of three.js.
 
-### 1. Rendered a 3D Spaceship object
+### 2. Rendered a 3D Spaceship object
 
 Description: In this experiment, I successfully rendered a 3D spaceship using three.js. This external 3d object with GLTF format was downloaded from https://sketchfab.com/ .
 
