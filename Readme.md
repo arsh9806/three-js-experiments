@@ -10,6 +10,8 @@ Description: In this experiment, I successfully rendered a 3D cube using three.j
 
 ### 2. Rendered a 3D Spaceship object
 
+<img width="1720" alt="Screenshot 2024-02-22 at 11 07 20 PM" src="https://github.com/arsh9806/three-js-experiments/assets/43360170/426dcb6c-a208-4176-a8be-4b90bc5f0b49">
+
 Description: In this experiment, I successfully rendered a 3D spaceship using three.js. This external 3d object with GLTF format was downloaded from https://sketchfab.com/ .
 
 #### Usage
