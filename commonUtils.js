@@ -1,6 +1,6 @@
 import * as THREE from "three";
 
-export const renderScene = function ({ fov=75 }) {
+export const renderScene = function ({ fov=75 }={}) {
     const scene = new THREE.Scene();
     //need a camera to view the things
     const camera = new THREE.PerspectiveCamera(
